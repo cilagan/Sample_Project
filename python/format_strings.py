@@ -32,6 +32,6 @@ print "Force eight digits in integer (pad with zeroes) %.8d" % integerValue
 print "Show five digits after decimal in float %.5f" % floatValue
 print "Get the first fifteen and five characters in string:"
 print "(%.15s) (%.5s)" % (stringValue, stringValue)
-print "this is a test commit."
+print "this is a test commit. And another one."
 
 dummy=raw_input()
